@@ -376,12 +376,15 @@ footer {
 @media only screen and (max-width: 450px) {
 
     .firstSection {
-        height: 140vh;
+        height: 100vh;
     }
-
+     .firstHalf{
+        margin-top: 30px;
+     }
     .secondHalf img {
         width: 150px;
         height: 150px;
+        margin-top: -300px;
     }
 
     .big-text {
